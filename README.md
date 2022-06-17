@@ -1,3 +1,9 @@
+
+          
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</head>
+          
 ### Olá! sou fabio jr.
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fjunior-amorim)
 [![facboock](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fabiojunio2019/)
@@ -9,8 +15,9 @@
 ## . . .TECNOLOGIAS que sei usar . . .
 
 <div style= "display: inline_block"><br/>
-    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img align="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img align="center" alt="HTML" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=55&color=ffffff"/>
+    <img align="center" alt="CSS3" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=55&color=fbfdff"/>
+    <img align="center" alt="JS" src="https://icongr.am/devicon/javascript-original.svg?size=45&color=ffffff"/>
+    <img align="center" alt="PYTHON" src="https://icongr.am/devicon/python-original.svg?size=50&color=ffffff"/>
+           
 </div><br/>
