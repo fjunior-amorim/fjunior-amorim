@@ -12,12 +12,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjunior-amorim&show_icons=true&theme=algolia)
 
-## . . .TECNOLOGIAS que sei usar . . .
+## Hard Skills
 
 <div style= "display: inline_block"><br/>
     <img align="center" alt="HTML" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=55&color=ffffff"/>
     <img align="center" alt="CSS3" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=55&color=fbfdff"/>
-    <img align="center" alt="JS" src="https://icongr.am/devicon/javascript-original.svg?size=45&color=ffffff"/>
-    <img align="center" alt="PYTHON" src="https://icongr.am/devicon/python-original.svg?size=50&color=ffffff"/>
-           
+    <img align="center" alt="JS" src="https://icongr.am/devicon/javascript-original.svg?size=45&color=ffffff"/>     
 </div><br/>
